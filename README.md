@@ -8,7 +8,7 @@
 
 1. GDG Lead
   2. GDG Domain Leads
-     3. GDG Members
+     2. GDG Members
 ---
 
 [GDG](https://gdg.community.dev/gdg-on-campus-shrimati-kashibai-navale-college-of-engineering-pune-india/)
