@@ -19,5 +19,5 @@
 | Soham  | Sarah  | Sanjana  |
 | Kabir  | Swarnim  | Srushti |
 
-    
+![GDG Women Tech Leads](https://github.com/user-attachments/assets/6cffb153-60aa-453d-a6a6-f5672eaea248)    
 
